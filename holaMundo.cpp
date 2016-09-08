@@ -2,7 +2,7 @@
 
 int main(){
     string hola;
-    cout<<"hello word"<<endl;
+    cout<<"como te llamas?"<<endl;
     cin>>hola
     cout<<"hola "<<hola;
     return 0;
